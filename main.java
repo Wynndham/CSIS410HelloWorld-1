@@ -1,9 +1,13 @@
 
 /**
  * Write a description of class main here.
+ * 
  *
  * @author (your name)
  * @version (a version number or a date)
+ *
+ * Comment
+ * Hamza Memon and Brian Smith
  */
 public class main
 {
